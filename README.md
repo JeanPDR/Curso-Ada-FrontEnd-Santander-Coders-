@@ -1,1 +1,1 @@
-Curso Introdutorio de JavaScript - Fornecido pelo bootcamp pela ada.Tech
+Curso Introdutorio de JavaScript - Fornecido pelo bootcamp da ada.Tech
